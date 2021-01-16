@@ -22,8 +22,7 @@ Your team:
 Mark Chen
 
 # How
-Either React, AWS, GraphQL
-Or Flutter, Dart, Firebase
+React, AWS, GraphQL
 
 # Limitations
 Will probably be released before 2022.
