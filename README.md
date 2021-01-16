@@ -1,8 +1,7 @@
 # Sublet-Applet
 
 ## Contents  
-- [What](#what)  - [Why](#why)  - [Who](#who)  - [How](#how)  
-- [Limitations](#limitations)
+[What](#what)  - [Why](#why)  - [Who](#who)  - [How](#how)  - [Limitations](#limitations)
 
 # What
 Sublet Applet is an app for KW students to easily find housing options or post openings.  
