@@ -22,5 +22,9 @@ If yes, this app will help you. Best of all, it's free!
 # Who
 This app is designed for UW and WLU students in the Kitchener-Waterloo area.
 
+# How
+Either React, AWS, GraphQL
+Or Flutter, Dart, Firebase
+
 # Limitations
 Will probably be released before 2022.
