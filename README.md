@@ -18,8 +18,9 @@ If yes, this app will help you. Best of all, it's free!
 # Who
 This app is designed for UW and WLU students in the Kitchener-Waterloo area.
 
-Your team:
-Mark Chen
+Your team:  
+Mark Chen  
+Tiffany Chiu  
 
 # How
 React, AWS, GraphQL
