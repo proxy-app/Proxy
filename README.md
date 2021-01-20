@@ -1,11 +1,11 @@
-# Sublet-Applet
+# SubLit
 
 ## Contents  
 [What](#what)  - [Why](#why)  - [Who](#who)  - [How](#how)  - [Limitations](#limitations)
 
 # What
-Sublet Applet is an app for KW students to easily find housing options or post openings.  
-Tell us your preferences by location, size, pricing, nearby POIs, and more - Sublet Applet will pair you with great and suitable options!
+SubLit is an app for KW students to easily find housing options or post openings.  
+Tell us your preferences by location, size, pricing, nearby POIs, and more - SubLit will pair you with great and suitable options!
 
 # Why
 DO YOU:
