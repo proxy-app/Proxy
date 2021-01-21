@@ -21,6 +21,7 @@ This app is for everyone looking for a place and anyone with vacant space!
 Your team:  
 Mark Chen  
 Tiffany Chiu  
+Bonnie Peng  
 
 # How
 React, AWS, GraphQL
