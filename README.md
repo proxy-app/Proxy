@@ -4,7 +4,7 @@
 [What](#what)  - [Why](#why)  - [Who](#who)  - [How](#how)  - [Limitations](#limitations)
 
 # What
-Proxy is an app for KW students to easily find housing options or post openings.  
+Proxy is an app designed for students to easily find housing options or post openings.  
 Tell us your preferences by location, size, pricing, nearby POIs, and more - Proxy will pair you with great and suitable options!
 
 # Why
