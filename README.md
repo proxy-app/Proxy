@@ -1,11 +1,11 @@
-# SubLit
+# Proxy
 
 ## Contents  
 [What](#what)  - [Why](#why)  - [Who](#who)  - [How](#how)  - [Limitations](#limitations)
 
 # What
-SubLit is an app for KW students to easily find housing options or post openings.  
-Tell us your preferences by location, size, pricing, nearby POIs, and more - SubLit will pair you with great and suitable options!
+Proxy is an app for KW students to easily find housing options or post openings.  
+Tell us your preferences by location, size, pricing, nearby POIs, and more - Proxy will pair you with great and suitable options!
 
 # Why
 DO YOU:
@@ -16,7 +16,7 @@ Ever find that online platforms such as Facebook groups become too cluttered and
 If yes, this app will help you. Best of all, it's free!
 
 # Who
-This app is designed for UW and WLU students in the Kitchener-Waterloo area.
+This app is for everyone looking for a place and anyone with vacant space!
 
 Your team:  
 Mark Chen  
