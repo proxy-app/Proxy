@@ -22,6 +22,7 @@ Your team:
 Mark Chen  
 Tiffany Chiu  
 Bonnie Peng  
+Nicole Shi  
 
 # How
 React, AWS, GraphQL
