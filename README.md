@@ -23,6 +23,7 @@ Mark Chen
 Tiffany Chiu  
 Bonnie Peng  
 Nicole Shi  
+DAvid Xiao
 
 # How
 React, AWS, GraphQL
