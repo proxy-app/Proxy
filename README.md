@@ -24,6 +24,7 @@ Tiffany Chiu
 Bonnie Peng  
 Nicole Shi  
 DAvid Xiao
+Ted Weng
 
 # How
 React, AWS, GraphQL
