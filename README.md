@@ -23,7 +23,7 @@ Mark Chen
 Tiffany Chiu  
 Bonnie Peng  
 Nicole Shi  
-DAvid Xiao  
+David Xiao  
 Ted Weng
 
 # How
