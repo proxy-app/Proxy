@@ -2,7 +2,7 @@
 
 This is the exclusive page for all things Proxy.
 
-While our code is hidden elsewhere, we will log and share the progress and updates we make here.
+While our code is hidden elsewhere, we will log and share the progress and updates we make in our [PROXY development journey](https://github.com/marko-polo-cheno/Proxy/blob/main/PROXY-LOG.md).
 
 ## Contents  
 [What](#what)  - [Why](#why)  - [Who](#who)  - [How](#how)  - [Limitations](#limitations)
