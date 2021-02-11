@@ -1,5 +1,9 @@
 # Proxy
 
+This is the exclusive page for all things Proxy.
+
+While our code is hidden elsewhere, we will log and share the progress and updates we make here.
+
 ## Contents  
 [What](#what)  - [Why](#why)  - [Who](#who)  - [How](#how)  - [Limitations](#limitations)
 
