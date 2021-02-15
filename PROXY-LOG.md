@@ -1,4 +1,4 @@
-#PROXY Development Journey
+PROXY Development Journey
 
 January  
 The idea of Proxy was born, and the full team was recruited.  
