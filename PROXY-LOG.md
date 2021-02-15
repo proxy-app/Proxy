@@ -2,12 +2,16 @@ PROXY Development Journey
 
 January  
 The idea of Proxy was born, and the full team was recruited.  
+Everyone is part of the Engineering Team: Data Sci, Devops, Front End, Soft Eng, QA
+Everyone is on a secondary team: HR, Finance, or Sales + Marketing.  
+
+#Todo: <first name coloured to secondary team, colour secondary teams>
+
 Seniors:  
 Asim Bhatia  -  Faiz Momin  -  Mark Chen  -  Muttaqi Islam  -  Racheal Ou  -  Tiffany Chiu  
 Juniors:  
 Bonnie Peng  -  David Xiao  -  Nicole Shi  -  Ted Weng  
 
-Everyone is part of the Engineering Team, and everyone is in a secondary team in HR, Finance, or Sales + Marketing.  
 
 February  
 
