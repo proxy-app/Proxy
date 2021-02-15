@@ -31,7 +31,7 @@ David Xiao
 Ted Weng
 
 # How
-React, AWS, GraphQL
+React, Heroku, AWS (DynamoDB, Lambda, S3 and API Gateway)
 
 # Limitations
 Will probably be released before 2022.
