@@ -16,10 +16,8 @@ Bonnie Peng  -  David Xiao  -  Nicole Shi  -  Ted Weng
 February  
 
 02/07/2021 - Our first official meeting.  
-02/14/2021 - Got Github Actions working so AWS Lambda functions can be changed in Github every push to main.
+02/14/2021 - Got Github Actions working so AWS Lambda functions can be changed in Github every push to main.  
 02/21/2021 - Have detailed table schemas down. Started creating various Lambda functions.
-
-
 
 March  
 April  
