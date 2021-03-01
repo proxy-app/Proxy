@@ -17,7 +17,7 @@ February
 
 02/07/2021 - Our first official meeting.  
 02/14/2021 - Got Github Actions working so AWS Lambda functions can be changed in Github every push to main.  
-02/21/2021 - Have detailed table schemas down. Started creating various Lambda functions.
+02/21/2021 - Have detailed table schemas down. Started creating various Lambda functions.  
 02/28/2021 - Geohashing on all listings. Starting to consider UI, unit testing, and how landmarks would intervene.  
 
 March  
