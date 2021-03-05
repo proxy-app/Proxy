@@ -34,4 +34,5 @@ Ted Weng
 React, Heroku, AWS (DynamoDB, Lambda, S3 and API Gateway)
 
 # Limitations
-Will probably be released before 2022.
+Will probably be released before 2022.  
+Will probably only work in Canada.
