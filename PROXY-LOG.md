@@ -21,6 +21,8 @@ February
 02/28/2021 - Geohashing on all listings. Starting to consider UI, unit testing, and how landmarks would intervene.  
 
 March  
+  
+03/07/2021 - Midterms are going on. No major updates to report.  
 
 April  
 May  
