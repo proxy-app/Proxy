@@ -23,6 +23,7 @@ February
 March  
   
 03/07/2021 - Midterms are going on. No major updates to report.  
+03/13/2021 - Planning UI, learning to make API requests. Continuing to make API.  
 
 April  
 May  
