@@ -23,9 +23,9 @@ February
 March  
   
 03/07/2021 - Midterms are going on. No major updates to report.  
-03/13/2021 - Planning UI, learning to make API requests. Continuing to make API.  
-03/20/2021 - See above.  
-03/27/2021 - Got a very plain but running app on Heroku to make some API requests.  
+03/14/2021 - Planning UI, learning to make API requests. Continuing to make API.  
+03/21/2021 - See above.  
+03/28/2021 - Got a very plain but running app on Heroku to make some API requests.  
 
 April  
 May  
