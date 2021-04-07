@@ -28,6 +28,8 @@ March
 03/28/2021 - Got a very plain but running app on Heroku to make some API requests.  
 
 April  
+04/04/2021 - Mass planning for upcoming goals to build velocity.  
+
 May  
 June  
 July  
