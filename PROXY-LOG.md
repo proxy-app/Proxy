@@ -29,6 +29,8 @@ March
 
 April  
 04/04/2021 - Mass planning for upcoming goals to build velocity.  
+04/11/2021 - Exam szn  
+04/18/2021 - Exam szn  
 
 May  
 June  
