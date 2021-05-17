@@ -35,6 +35,7 @@ April
 
 May  
 05/02/2021 - New member! Web dev position filled.  
+05/09/2021 - Revamp sprints with new kanban app and reoutlined tasks.  
 05/16/2021 - Add listing form complete, login with gmail complete.  
 
 June  
