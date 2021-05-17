@@ -31,8 +31,12 @@ April
 04/04/2021 - Mass planning for upcoming goals to build velocity.  
 04/11/2021 - Exam szn  
 04/18/2021 - Exam szn  
+04/25/2021 - Well deserved break
 
 May  
+05/02/2021 - New member! Web dev position filled.  
+05/16/2021 - Add listing form complete, login with gmail complete.  
+
 June  
 July  
 August  
